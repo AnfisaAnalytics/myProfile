@@ -2,8 +2,7 @@
 #### Аналитик данных & Аналитик-разработчик
 [Telegram](https://t.me/anfisso) | [anfisa.analytics@yahoo.com](https://mail.yahoo.com)
 
-<a style='color: red;' href="https://github.com/AnfisaAnalytics/myProfile/tree/main/portfolio)">Портфолио</a>
-
+[Портфолио](https://github.com/AnfisaAnalytics/myProfile/tree/main/portfolio)
 
 ## О себе
 Сертифицированный специалист по анализу данных, обладающий высокой квалификацей в области обработки данных для разработки ориентированных на клиента решений.
