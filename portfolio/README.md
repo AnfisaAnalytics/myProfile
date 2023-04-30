@@ -49,7 +49,10 @@
 <h2 id="project">Проекты по аналитике данных</h2>
  Здесь будет какой-нибудь описание проектов что и как 
  <h2 id="p1">Анализ данных на Python</h2>
- Решение: Анализ мировой экономики
+ Решение: [notebook](https://github.com/AnfisaAnalytics/myProfile/blob/a1b62709de204f08eff11604060d1fcf4ecad5ae/portfolio/01%20-%20DataAnalytics/GDP.ipynb)
+
+
+ 
  
 Goal: To determine what factors contribute the most to a movie's success.
 
