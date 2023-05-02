@@ -64,10 +64,10 @@
 <h2 id="p2">Машинное обучение</h2>
 
 ***
-<h4 style='display: inline-block; margin-left: 40px;'><a href="#">Логистическая регрессия</a></h4>
+<h4 style='display: inline-block; margin-left: 40px;'><a href="https://github.com/AnfisaAnalytics/myProfile/blob/61b41eb701201a38f8f684cd1280416ebd504a4a/portfolio/02%20-%20Machine%20Learning/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D0%B8%D1%8F.ipynb">Логистическая регрессия</a></h4>
 <p>
 Ответим на вопрос, как изменился мир за последние 200 лет.<br>
-Посмотрим некоторые наборы данных <a href="https://www.gapminder.org">Gapminder</a>, чтобы обнаружить некоторые интересные факты о глобальных изменениях с 1800 по 2000 год.
+Посмотрим некоторые наборы данных  чтобы обнаружить некоторые интересные факты о глобальных изменениях с 1800 по 2000 год.
 <br>
 Используем: Python, Pandas, Numpy, Sklearn, Seaborn.
 <br><br>
