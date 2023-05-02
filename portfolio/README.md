@@ -78,4 +78,3 @@ Results: Using Python functions the analysis revealed that votes and budget have
 <h2 id="contacts">Контакты</h2>
 
 * Telegram: [@anfisso](https://t.me/anfisso)
-* Email: [anfisa.analytics@yahoo.com](https://mail.yahoo.com)
