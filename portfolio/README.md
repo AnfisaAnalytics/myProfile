@@ -49,9 +49,7 @@
 <h2 id="project">Проекты по аналитике данных</h2>
  Здесь будет какой-нибудь описание проектов что и как 
  <h2 id="p1">Анализ данных на Python</h2>
- Решение: 
-[notebook](https://github.com/AnfisaAnalytics/myProfile/blob/a6e8fe6020a763890bd75bec25d4fd65a8bf5cb0/portfolio/01%20-%20Data%20Analysis%20with%20Python/Analysis_economic.ipynb)
-
+<p>Решение: <a href="https://www.freecodecamp.org/">notebook</a>.</p>
 Goal: To determine what factors contribute the most to a movie's success.
 
 Description: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
