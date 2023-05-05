@@ -13,6 +13,14 @@
 * Методы машинного обучения
 * Git | HTML / CSS / JavaScript
 
+## Навыки
+* Статистика
+* SQL 
+* Python
+* Методы машинного обучения
+* Git 
+* HTML / CSS / JavaScript
+
 ## Образование 
 <table  bordercolor="#ffffff" >
           <tr>
