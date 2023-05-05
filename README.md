@@ -22,6 +22,30 @@
 * HTML / CSS / JavaScript
 
 ## Образование 
+<div style='display: flex; color: red'>
+  <div style=''>hh</div>
+  <div style=''>hh</div>
+</div>
+
+<div></div>
+
+<dl>
+  <dt>1Definition list</dt>
+  <dd>1Is something people use sometimes.</dd>
+
+  <dt>2Markdown in HTML</dt>
+  <dd>2Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+
 <table  bordercolor="#ffffff" >
           <tr>
             <td>2022</td>
