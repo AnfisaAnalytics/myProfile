@@ -51,7 +51,9 @@
  <h2>Анализ данных на Python</h2>
 
 ***  
-<h4 id="p1" style='display: inline-block; margin-left: 40px;'><a href="https://github.com/AnfisaAnalytics/myProfile/blob/590d2962cf47f9248d527c75596531544ee13437/portfolio/01%20-%20Data%20Analysis%20with%20Python/Analysis_economic.ipynb">Анализ мировой экономики</a></h4>
+
+<h4 id="p1"><h4>
+<h4 style='display: inline-block; margin-left: 40px;'><a href="https://github.com/AnfisaAnalytics/myProfile/blob/590d2962cf47f9248d527c75596531544ee13437/portfolio/01%20-%20Data%20Analysis%20with%20Python/Analysis_economic.ipynb">Анализ мировой экономики</a></h4>
 <p>
 Ответим на вопрос, как изменился мир за последние 200 лет.<br>
 Посмотрим некоторые наборы данных <a href="https://www.gapminder.org">Gapminder</a>, чтобы обнаружить некоторые интересные факты о глобальных изменениях с 1800 по 2000 год.
