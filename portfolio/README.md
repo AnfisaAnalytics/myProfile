@@ -1,7 +1,80 @@
+# **Аналитика данных**
+* Приветствую, я Анфиса! Я являюсь аналитиком данных, имеется [сертификат](https://github.com/AnfisaAnalytics/myProfile/blob/eb560867ebc51615d8c81b7ddb83ab86522ccdbf/file/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.pdf) обучения в Нетологии. В настоящий момент я нахожусь на пути получения должности. У меня сформировался прочный фундамент в науках о жизни и страсть к использованию данных для получения значимых открытий. Я рада применять свои технические и аналитические навыки в области науки о данных в качестве специалиста по обработке данных начального уровня.
+
+* Во время обучения я отточила свое умение работать со сложными структурами данных. Я приобрела опыт в работе с методами машинного обучения, и применение статистического анализа, парсинга сайтов. 
+
+* В свободное время мне нравится изучать новые инструменты и методы анализа данных, и я всегда ищу возможности расширить свои знания и навыки. Независимо от того, работаю ли я в команде или самостоятельно, мной движет восторг от открытия новых идей и удовлетворение от использования данных для решения сложных проблем.
+
+* Мое резюме в формате [pdf](https://github.com/AnfisaAnalytics/myProfile/blob/74b6340dea626e096470d25abd648de250b0462c/file/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%93%D0%B0%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%90.pdf).
+
+* Это хранилище для демонстрации моих навыков в областях, связанных с аналитикой данных / Data Analytics.
+
+## Проекты 
+Ниже публикую некоторые проекты, которые выполнила во время и после обучения.
+
+* Анализ данных на Python :
+
+   * <a href="https://github.com/AnfisaAnalytics/myProfile/blob/590d2962cf47f9248d527c75596531544ee13437/portfolio/01%20-%20Data%20Analysis%20with%20Python/Analysis_economic.ipynb"> Анализ мировой экономики </a> : 
+_. 
+  
+
+----
+
+* Machine Learning Case Studies :
+
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Lung%20cancer%20Prediction-ML%20approach"> Lung Cancer Prediction </a> : 
+Created and Trained  Model which predicts whether a given passenger has cancer or not. 
+  
+---- 
+* Различные методы анализа:
+
+    - <a href="[https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/E-commerce%20Dashboard](https://nbviewer.org/github/AnfisaAnalytics/myProfile/blob/96b6cf11eade2cbf93f5733f554882174bff360f/portfolio/03%20-%20Visualization/1%20-%20Visualization.ipynb)"> Визуализация данных : </a> By this dynamic Visualization of E Commerce using <b>Excel</b> gives the insights about their yearly Sales, Profit. This can be viewed by any user with out prior information. 
+    - <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Superstore-Tableau%20Dashboard"> Superstore Dataset : </a> Dynamic Visualization of SuperStore using <b>Tableau</b> gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user with out prior information. 
+  
+----    
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Caffeine-Calorie%20-%20An%20unsupervised%20ML%20approach"> Caffeine Calorie Analysis </a> :
+Predict the calorie and caffeine content with its volume.
+   
+  
+
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/SMS%20Spam%20Detection"> Spam Detection using Machine Learning </a> : The objective of the dataset is to predict the SMS spam .
+      
+    
+- Data-EDA/Statistical Analysis/Webscrapping:
+  
+- <u>EDA<u> :
+
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Students%20Performance-EDA"> Student Performance </a> : 
+               Determine the test performance relation with the students marks and parent education using Python Codes. This also give a quick insight on python codes for EDA. 
+      
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Bike%20Buyers%20-R%20-EDA"> Bike Buyers </a>: 
+               Determine the income relation with the education ans also gives a quick insight on R Codes.
+- <u>Statistical Analysis using python and R<u> :    
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Statistical%20Analysis-R%20and%20Python/Abalone%20Dataset%20-%20Statistical%20Analysis%20on%20Python.ipynb"> Abalone dataset </a>: 
+        To determine the Rings formed in an Abalone according to various factors which gives an insight about the statistical analysis using <b>Python</b>.
+     
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Statistical%20Analysis-R%20and%20Python/Abalone%20Dataset-Statistical%20Analysis%20on%20R.ipynb"> Abalone dataset </a> : 
+               To determine the Rings formed in an Abalone according to various factors which gives an insight about the statistical analysis using R.
+ 
+-<u>Web Scrapping<u> : 
+
+   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Wikipedia-WebScraping"> Web Scrapping </a> : 
+    Main purpose is to scrap the data about the countries and its population.
+    
+
+    
+    
+### Connect with me on these platforms:
+* LinkdIn : https://www.linkedin.com/in/ayisha-najeeha-26380a46/
+* Gmail : ayshamoossa27@gmail.com 
+* Yahoo mail:aysha_naji@yahoo.com
+
+=============================
+
 <h2 id="about">Аналитика данных</h2>
 
 *** 
-Приветствую, я Анфиса! Я являюсь аналитиком данных, имеется [сертификат](https://github.com/AnfisaAnalytics/myProfile/blob/eb560867ebc51615d8c81b7ddb83ab86522ccdbf/file/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.pdf) обучения в Нетологии. В настоящий момент я нахожусь на пути получения должности. У меня сформировался прочный фундамент в науках о жизни и страсть к использованию данных для получения значимых открытий. Я рада применять свои технические и аналитические навыки в области науки о данных в качестве специалиста по обработке данных начального уровня.
+* Приветствую, я Анфиса! Я являюсь аналитиком данных, имеется [сертификат](https://github.com/AnfisaAnalytics/myProfile/blob/eb560867ebc51615d8c81b7ddb83ab86522ccdbf/file/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.pdf) обучения в Нетологии. В настоящий момент я нахожусь на пути получения должности. У меня сформировался прочный фундамент в науках о жизни и страсть к использованию данных для получения значимых открытий. Я рада применять свои технические и аналитические навыки в области науки о данных в качестве специалиста по обработке данных начального уровня.
 
 Во время обучения я отточила свое умение работать со сложными структурами данных. Я приобрела опыт в работе с методами машинного обучения, и применение статистического анализа, парсинга сайтов. 
 
