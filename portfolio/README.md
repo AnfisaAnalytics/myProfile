@@ -17,11 +17,11 @@
  <h2>Анализ данных на Python</h2>
 
 
-<ul>
+<ul style='list-style-type: circle;'>
     <a href="#project">
-     <ul> 
+     <ul style='list-style-type: disc;'> 
          <li>Статистический анализ с помощью Python, его библиотек 
-    <ul>
+    <ul style='list-style-type: circle;'>
       <li><h4 style='display: inline-block; margin-left: 40px;'><a href="https://github.com/AnfisaAnalytics/myProfile/blob/590d2962cf47f9248d527c75596531544ee13437/portfolio/01%20-%20Data%20Analysis%20with%20Python/Analysis_economic.ipynb">Анализ мировой экономики</a></h4>
 <p>
 Ответим на вопрос, как изменился мир за последние 200 лет.<br>
@@ -36,14 +36,14 @@
     </ul>
   </li>
   <li>Machine Learning
-    <ul>
+    <ul style='list-style-type: disc;'>
       <li><a href="#p4">Логистическая регрессия</a></li>
       <li><a href="#p5">проект</a></li>
       <li><a href="#p6"></a></li>
     </ul>
   </li>
   <li>Разное
-    <ul>
+    <ul style='list-style-type: disc;'>
       <li><a href="#p7">Визуализация</a></li>
       <li><a href="#p8">Веб-Скрейпинг</a></li>
       <li><a href="#p9">Чистка, подготовка данных</a></li>
