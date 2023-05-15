@@ -78,7 +78,7 @@
 
 ***
   <h2 id="p7"></h2>
-<h4 style='display: inline-block; margin-left: 40px;'><a href="#">Визуализация</a></h4>
+<h4 style='display: inline-block; margin-left: 40px;'><a href="https://nbviewer.org/github/AnfisaAnalytics/myProfile/blob/96b6cf11eade2cbf93f5733f554882174bff360f/portfolio/03%20-%20Visualization/1%20-%20Visualization.ipynb">Визуализация</a></h4>
 <p> 
 ***
   <br><br>
