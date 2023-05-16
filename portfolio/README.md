@@ -33,7 +33,7 @@
 ---- 
 * Различные методы анализа:
 
-    - [Визуализация данных](https://nbviewer.org/github/AnfisaAnalytics/myProfile/blob/96b6cf11eade2cbf93f5733f554882174bff360f/portfolio/03%20-%20Visualization/1%20-%20Visualization.ipynb) : . 
+    - [Визуализация данных](https://nbviewer.org/github/AnfisaAnalytics/myProfile/blob/d0d6916923a97c7768dad2f967b34ac4076b2774/portfolio/03%20-%20Different/1%20-%20Visualization.ipynb) : получим общую картину иммиграции по всему миру, а также в частности в Россию.
 
 
 
