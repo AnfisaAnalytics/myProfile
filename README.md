@@ -1,7 +1,5 @@
 ## Ганнова Анфиса
 #### Аналитик данных & Аналитик-разработчик
-[Telegram](https://t.me/anfisso) | [anfisa.analytics@yahoo.com](https://mail.yahoo.com)  
-
 
 [Портфолио](https://github.com/AnfisaAnalytics/myProfile/tree/main/portfolio)
 
