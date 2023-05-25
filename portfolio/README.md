@@ -29,7 +29,7 @@
    * [Логистическая регрессия](https://github.com/AnfisaAnalytics/myProfile/blob/61b41eb701201a38f8f684cd1280416ebd504a4a/portfolio/02%20-%20Machine%20Learning/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D0%B8%D1%8F.ipynb
 ) : 
 Создана и обучена модель, которая предсказывает, кликнет ли пользователь по объявлению или нет. 
-   * [Классификация](https://github.com/AnfisaAnalytics/myProfile/blob/33b39ca6a07da49751812d9ef3f5de9a3e42f84e/portfolio/02%20-%20Machine%20Learning/2%20-%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%2C%20%D1%83%D0%B4%D0%BE%D0%B2%D0%BB%D0%B5%D1%82%D0%B2%D0%BE%D1%80%D0%B5%CC%88%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2.ipynb) : 
+   * [Классификация](https://github.com/AnfisaAnalytics/myProfile/blob/3c8040c44f5d235c2a7c4306385b27361c490c52/portfolio/02%20-%20Machine%20Learning/2%20-%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%2C%20%D1%83%D0%B4%D0%BE%D0%B2%D0%BB%D0%B5%D1%82%D0%B2%D0%BE%D1%80%D0%B5%CC%88%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2.ipynb) : 
 По нескольким алгоритмам классификации построена и определена лучшая модель для прогнозирования удовлетворенности пассажиров.
  
 ---- 
