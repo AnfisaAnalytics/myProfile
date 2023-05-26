@@ -52,5 +52,4 @@
 *Сентябрь 2022 - Апрель 2023*
 ### Контактные данные :
 * Telegram : [@anfisso](https://t.me/anfisso)
-* Yahoo mail : [anfisa.analytics@yahoo.com](https://mail.yahoo.com)
-
+* Yahoo mail : anfisa.analytics@yahoo.com 
