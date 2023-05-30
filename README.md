@@ -13,6 +13,7 @@
 * Методы машинного обучения
 * Git 
 * HTML / CSS / JavaScript
+* Опыт работы в Tableau & Power BI
 
 ### Образование 
 
