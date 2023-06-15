@@ -7,7 +7,7 @@
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;В свободное время мне нравится изучать новые инструменты и методы анализа данных, и я всегда ищу возможности совершенствования знаний и навыков. Вне зависимости от того, работаю ли я в команде или самостоятельно, меня вдохновляют новые идеи, подходы и поиск ресурсов для решения самых разнообразных и сложных задач.
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Мое резюме в формате [pdf](https://github.com/AnfisaAnalytics/myProfile/blob/1af50c031ce11c310c16dcb4b263c96639946740/files/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%93%D0%B0%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%90.pdf).
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Мое резюме в формате [pdf](https://github.com/AnfisaAnalytics/myProfile/blob/ce7246638af504743be0d3d6ca8ac5b69840fb50/files/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%93%D0%B0%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%90.pdf).
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Данное хранилище содержит работы для подтверждения моих навыков в аналитике данных / Data Analytics.
 
