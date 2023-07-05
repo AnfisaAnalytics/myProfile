@@ -37,6 +37,7 @@
 
     - [Интерактивная визуализация данных](https://nbviewer.org/github/AnfisaAnalytics/myProfile/blob/d0d6916923a97c7768dad2f967b34ac4076b2774/portfolio/03%20-%20Different/1%20-%20Visualization.ipynb) : получим общую картину иммиграции по всему миру, а также в частности в Россию.
     - [A/B тестирование](https://github.com/AnfisaAnalytics/myProfile/blob/d6b485750b829a5e65a8f0016f80071b5638aadf/portfolio/03%20-%20Different/2.%20ab_testing.ipynb) : анализ добавления новой функции на веб-сайт.
+    - [Парсинг данных](https://github.com/AnfisaAnalytics/myProfile/blob/38bfcd6d5d9c2fed4db9fb9c137f4f08474b7275/portfolio/03%20-%20Different/3.%20scraping%20_book.ipynb) : в данном ноутбуке анализ данных не предусмотрен, здесь мы получаем данные из сети и рисуем локальный файл.
     
 ### Контактные данные :
 * Telegram : [@anfisso](https://t.me/anfisso)
