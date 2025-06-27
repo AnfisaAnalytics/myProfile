@@ -6,10 +6,10 @@
 Сертифицированный BI-аналитик с экспертизой в области разработки аналитических решений и автоматизации бизнес-процессов.
 
 ## Навыки
-* **Анализ данных**: SQL (PostgreSQL), Python (Pandas, NumPy, Scikit-Learn)
-* **Визуализация**: Tableau, Power BI, Metabase, Yandex DataLens
-* **Веб-аналитика**: Яндекс.Метрика, Google Analytics, A/B-тестирование
-* **Машинное обучение**: Предиктивные модели, Time Series Analysis
+* **Анализ данных**: SQL (PostgreSQL, Clickhouse), Python (Pandas, NumPy, Scikit-Learn)
+* **Визуализация**: Tableau, Metabase, Yandex DataLens
+* **Веб-аналитика**: Яндекс.Метрика, Python(скрапинг данных) A/B-тестирование
+* **Машинное обучение**: Предиктивные модели, анализ временных рядов
 * **Автоматизация**: ETL-процессы, Excel VBA, Git
 
 ## Образование 
