@@ -45,4 +45,3 @@
 ## Контакты
 * **Telegram**: [@anfisso](https://t.me/anfisso)
 * **Email**: anfisa.analytics@yahoo.com
-* **GitHub**: [AnfisaAnalytics](https://github.com/AnfisaAnalytics)
